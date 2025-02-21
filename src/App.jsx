@@ -1,5 +1,5 @@
 import NetflixSeries from "./components/watchchart";
-import "./netflix.css"
+import "./Netflix.css"
 export const App = () => {
   return(
     <section className="container">
